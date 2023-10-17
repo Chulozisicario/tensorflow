@@ -1,6 +1,6 @@
 sudo python3 rpicam.py \
-  --model /home/pi/test/detect.tflite \
-  --labels /home/pi/test/coco_labels.txt
+  --model /home/raspberry/test/detect.tflite \
+  --labels /home/raspberry/test/coco_labels.txt
 
 
 
